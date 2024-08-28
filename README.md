@@ -52,7 +52,7 @@ Best hyperparameters are listed as below:
 - <code>README.md</code>: Summary of findings and link to notebook
 
 ## Notebook
-The detailed analysis and code can be found in the Jupyter notebook <a href="[https://github.com/mitbans/NLP-Humor-Classifier/blob/main/notebooks/NLP-Humor-Classifier.ipynb">here</a>.
+The detailed analysis and code can be found in the Jupyter notebook <a href="https://github.com/mitbans/NLP-Humor-Classifier/blob/main/notebooks/NLP-Humor-Classifier.ipynb">here</a>.
 
 ---
 
