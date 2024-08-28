@@ -42,7 +42,7 @@ Overall, the `logistic_stem_count` model stands out due to its robust performanc
 - <code>README.md</code>: Summary of findings and link to notebook
 
 ## Notebook
-The detailed analysis and code can be found in the Jupyter notebook <a href="https://github.com/mitbans/Bank-Marketing-Campaigns/blob/main/notebooks/Predicting-Long-Term-Deposit-Success.ipynb">here</a>.
+The detailed analysis and code can be found in the Jupyter notebook <a href="[https://github.com/mitbans/NLP-Humor-Classifier/blob/main/notebooks/NLP-Humor-Classifier.ipynb">here</a>.
 
 ---
 
