@@ -1,4 +1,4 @@
-# NLP Humor Classifier:
+# NLP Humor Classifier
 ## Comparing Models and Vectorization Strategies for Text Classification
 
 ### Context
