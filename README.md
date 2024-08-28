@@ -21,7 +21,11 @@ Once the text data is prepared with stemming lemmatizing techniques, Used `Logis
 
 ### Evaluation
 
-<img width="508" alt="image" src="https://github.com/user-attachments/assets/1069e644-da21-4ef9-80bb-82ccc9f28346">
+<div align="center">
+    <img src="https://github.com/mitbans/NLP-Humor-Classifier/blob/main/images/comparingtraintime.png" width="500" height="400" alt="Image 1">
+    <img src="https://github.com/mitbans/NLP-Humor-Classifier/blob/main/images/comparinfgscores.png" width="500" height="400" alt="Image 2">
+</div>
+
 
 #### Logistic Regression 
 Consistently outperform the others, especially when using stemming with count vectorization. These models offer the best balance of precision, recall, F1, and AUC, making them well-suited for text classification tasks that require accurate class identification and discrimination. Although stemming slightly improves metrics, it is more computationally expensive compared to lemmatizing.
