@@ -39,6 +39,12 @@ Delivered competitive performance with higher computational costs and lower metr
 #### Conclusion
 Overall, the `logistic_stem_count` model stands out due to its robust performance across all key metrics. However, if computational efficiency is a concern, the `logistic_lemmatize_count` model is a viable alternative.
 
+Best hyperparameters are listed as below:
+
+<div align="center">
+    <img src="https://github.com/mitbans/NLP-Humor-Classifier/blob/main/images/bestparams.png" width="500" height="400">
+</div>
+
 ## Repository Structure
 - <code>text_data/dataset.csv</code>: Contains dataset used in the analysis.
 - <code>images/</code>: Contain metrics comparison charts.
